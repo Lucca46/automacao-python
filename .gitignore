@@ -26,3 +26,6 @@ Thumbs.db
 
 # Study material
 Apostila Jornada Python - Aula 1.pdf
+
+# Do not publish answer/reference file
+gabarito.py
